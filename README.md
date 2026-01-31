@@ -8,3 +8,5 @@ robots. The goal is to stay alive and eliminate all other robots.
 
 The focus of this task was to get experience in working with
 interfaces, exceptions and generics in Java.
+
+Try it out for yourself or check out the showcase.
